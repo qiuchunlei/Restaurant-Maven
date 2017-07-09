@@ -1,8 +1,0 @@
-0:0:0:0:0:0:0:1 - - [09/Jul/2017:13:26:44 +0800] "GET / HTTP/1.1" 404 - http-bio-8080-exec-1 0
-0:0:0:0:0:0:0:1 - - [09/Jul/2017:13:26:56 +0800] "GET / HTTP/1.1" 404 - http-bio-8080-exec-3 0
-0:0:0:0:0:0:0:1 - - [09/Jul/2017:13:27:25 +0800] "GET / HTTP/1.1" 404 - http-bio-8080-exec-5 0
-0:0:0:0:0:0:0:1 - - [09/Jul/2017:13:27:41 +0800] "GET /Restaurant HTTP/1.1" 302 - http-bio-8080-exec-7 0
-0:0:0:0:0:0:0:1 - - [09/Jul/2017:13:28:05 +0800] "GET /Restaurant/noodles HTTP/1.1" 200 61 http-bio-8080-exec-9 15
-0:0:0:0:0:0:0:1 - - [09/Jul/2017:13:30:51 +0800] "GET /Restaurant/noodles HTTP/1.1" 200 61 http-bio-8080-exec-1 55
-0:0:0:0:0:0:0:1 - - [09/Jul/2017:13:31:17 +0800] "GET /Restaurant/noodles HTTP/1.1" 200 61 http-bio-8080-exec-3 2
-0:0:0:0:0:0:0:1 - - [09/Jul/2017:13:31:25 +0800] "GET / HTTP/1.1" 404 - http-bio-8080-exec-6 0
